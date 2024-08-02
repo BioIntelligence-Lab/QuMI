@@ -1,0 +1,4 @@
+conda-forge::transformers=4.38.2=pyhd8ed1ab_0
+nvidia::cuda-cupti=12.4.127=0
+conda-forge::flax=0.8.2=pyhd8ed1ab_0
+conda-forge::pennylane=0.35.1=py311h38be061_1

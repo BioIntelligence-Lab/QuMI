@@ -1,0 +1,9 @@
+[submodule "src/safejax"]
+	path = src/safejax
+	url = https://github.com/alvarobartt/safejax
+[submodule "src/qml-benchmarks"]
+	path = src/qml-benchmarks
+	url = https://github.com/XanaduAI/qml-benchmarks.git
+[submodule "src/scikit-multilearn-ng"]
+	path = src/scikit-multilearn-ng
+	url = https://github.com/scikit-multilearn-ng/scikit-multilearn-ng

@@ -1,0 +1,19 @@
+cache_dir: /srv/store/Projects/schan/quantum/.cache/
+# experiment_dir: /srv/store/Projects/schan/quantum/experiments/ISVLSI/
+# parameters should not use - or =, these will be for creating the experiment names
+parameters:
+- classifier
+- num_labels
+- freeze
+- fraction
+hyperparameters:
+- seed
+- learning_rate
+- num_layers
+# sensible defaults
+# learning_rate: 3e-5
+# batch_size: 32
+# threads: 8
+# gpu_num: best
+# jit: True
+# fraction: 0.1

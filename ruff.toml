@@ -1,0 +1,14 @@
+line-length = 100
+# ignore 3rd party files
+exclude = ['spinner.py', 'qml-benchmarks', 'pytorch-src', 'scikit-multilearn-ng']
+
+[lint]
+# add rules for isort, pandas, variable naming, code complexity, bugbear, builtin collision, commas, comprehensions, errmsg, import name convention, logging format, return, simplify, tidy imports, unused arguments, pathlib, pylint, performance, refurb (experimental), logging, ruff rules, numpy 2 deprecation
+# ERA for commented code
+select = ["F", "E", "W", "I", "PD", "N", "C90", "B", "A", "C4", "EM", "ICN", "G", "RET", "SIM", "TID", "ARG", "PTH", "PL", "PERF", "LOG", "RUF", "NPY201"]
+# ignore lambda assignment rule, unused loop variables, open vs pathlib.open, capital letter variable names
+ignore = ["E731", "B007", "PTH123", "N806"]
+pycodestyle.max-line-length = 120  # E501: reports lines that exceed the length of 120.
+
+[format]
+quote-style = "single"

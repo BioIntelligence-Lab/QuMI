@@ -1,0 +1,480 @@
+INFO:root:Saved cost analyses
+INFO:root:Saved cost analyses
+INFO:root:Starting epochs
+INFO:root:Start epoch: 0
+INFO:root:Start train loop
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 0
+INFO:root:New best val loss: 0.192
+INFO:root:Saving new checkpoint for epoch 0
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 1
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712372635727856 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 1
+INFO:root:New best val loss: 0.154
+INFO:root:Saving new checkpoint for epoch 1
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 2
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712374800844226 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 2
+INFO:root:New best val loss: 0.143
+INFO:root:Saving new checkpoint for epoch 2
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 3
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712376966712239 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 3
+INFO:root:New best val loss: 0.139
+INFO:root:Saving new checkpoint for epoch 3
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 4
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712379134516898 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 4
+INFO:root:New best val loss: 0.138
+INFO:root:Saving new checkpoint for epoch 4
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 5
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712381300617810 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 5
+INFO:root:New best val loss: 0.136
+INFO:root:Saving new checkpoint for epoch 5
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 6
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712383467541152 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 6
+INFO:root:Losing patience: 1 attempts without improvement so far
+INFO:root:Start epoch: 7
+INFO:root:Start train loop
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 7
+INFO:root:New best val loss: 0.133
+INFO:root:Saving new checkpoint for epoch 7
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 8
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712387807801386 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 8
+INFO:root:Losing patience: 1 attempts without improvement so far
+INFO:root:Start epoch: 9
+INFO:root:Start train loop
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 9
+INFO:root:New best val loss: 0.131
+INFO:root:Saving new checkpoint for epoch 9
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 10
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712392138824322 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 10
+INFO:root:Losing patience: 1 attempts without improvement so far
+INFO:root:Start epoch: 11
+INFO:root:Start train loop
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 11
+INFO:root:New best val loss: 0.129
+INFO:root:Saving new checkpoint for epoch 11
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 12
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712396469335812 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 12
+INFO:root:New best val loss: 0.129
+INFO:root:Saving new checkpoint for epoch 12
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 13
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712398631297480 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 13
+INFO:root:New best val loss: 0.129
+INFO:root:Saving new checkpoint for epoch 13
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 14
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712400793944061 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 14
+INFO:root:New best val loss: 0.128
+INFO:root:Saving new checkpoint for epoch 14
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 15
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712402959338224 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 15
+INFO:root:New best val loss: 0.127
+INFO:root:Saving new checkpoint for epoch 15
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 16
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712405124751342 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 16
+INFO:root:Losing patience: 1 attempts without improvement so far
+INFO:root:Start epoch: 17
+INFO:root:Start train loop
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 17
+INFO:root:New best val loss: 0.126
+INFO:root:Saving new checkpoint for epoch 17
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 18
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712409453832724 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 18
+INFO:root:New best val loss: 0.125
+INFO:root:Saving new checkpoint for epoch 18
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 19
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712411619632631 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 19
+INFO:root:New best val loss: 0.125
+INFO:root:Saving new checkpoint for epoch 19
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 20
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712413785161984 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 20
+INFO:root:New best val loss: 0.124
+INFO:root:Saving new checkpoint for epoch 20
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 21
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712415950264895 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 21
+INFO:root:New best val loss: 0.124
+INFO:root:Saving new checkpoint for epoch 21
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 22
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712418115405796 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 22
+INFO:root:New best val loss: 0.123
+INFO:root:Saving new checkpoint for epoch 22
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 23
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712420280902275 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 23
+INFO:root:New best val loss: 0.123
+INFO:root:Saving new checkpoint for epoch 23
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 24
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712422445691485 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 24
+INFO:root:Losing patience: 1 attempts without improvement so far
+INFO:root:Start epoch: 25
+INFO:root:Start train loop
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 25
+INFO:root:Losing patience: 2 attempts without improvement so far
+INFO:root:Start epoch: 26
+INFO:root:Start train loop
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 26
+INFO:root:New best val loss: 0.123
+INFO:root:Saving new checkpoint for epoch 26
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 27
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712428931166125 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 27
+INFO:root:Losing patience: 1 attempts without improvement so far
+INFO:root:Start epoch: 28
+INFO:root:Start train loop
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 28
+INFO:root:New best val loss: 0.123
+INFO:root:Saving new checkpoint for epoch 28
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 29
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712433255881882 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 29
+INFO:root:Losing patience: 1 attempts without improvement so far
+INFO:root:Start epoch: 30
+INFO:root:Start train loop
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 30
+INFO:root:New best val loss: 0.122
+INFO:root:Saving new checkpoint for epoch 30
+INFO:absl:Saving item to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints. Waiting for thread to finish save.
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Specified `force`: removing existing directory.
+INFO:absl:Starting commit to storage layer by process: 0
+INFO:root:Start epoch: 31
+INFO:root:Start train loop
+INFO:absl:Finished committing to storage layer by process: 0
+INFO:absl:Renaming /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.orbax-checkpoint-tmp-1712437582310764 to /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints
+INFO:absl:Finished saving checkpoint to `/srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints`.
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 31
+INFO:root:Losing patience: 1 attempts without improvement so far
+INFO:root:Start epoch: 32
+INFO:root:Start train loop
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 32
+INFO:root:Losing patience: 2 attempts without improvement so far
+INFO:root:Start epoch: 33
+INFO:root:Start train loop
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 33
+INFO:root:Losing patience: 3 attempts without improvement so far
+INFO:root:Start epoch: 34
+INFO:root:Start train loop
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 34
+INFO:root:Losing patience: 4 attempts without improvement so far
+INFO:root:Start epoch: 35
+INFO:root:Start train loop
+INFO:root:End train loop
+INFO:root:Start val loop
+INFO:root:End val loop
+INFO:root:End epoch: 35
+INFO:root:Losing patience: 5 attempts without improvement so far
+INFO:root:Ran out of patience! Stopping early
+INFO:root:Finished training after 36 epochs!
+INFO:root:Save history
+INFO:absl:Thread joined successfully
+INFO:absl:Error check finished successfully
+INFO:root:Loading best checkpoint
+INFO:absl:Error check finished successfully
+INFO:absl:Error check finished successfully
+INFO:absl:Restoring item from /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.
+INFO:absl:Finished restoring checkpoint from /srv/store/Projects/schan/quantum/quantum-19-seeds-2-5/experiments/ISVLSI-q19-seeds-2-5/classifier=quantum-fraction=1.0-freeze=False-num_labels=19/learning_rate=0.0001-num_layers=3-seed=3/checkpoints.
+INFO:root:Start test loop
+INFO:root:End test loop
+INFO:root:Saved cost analyses
+INFO:root:Start predict
+INFO:root:End predict
+INFO:root:Save test results
+INFO:root:Save test predictions
+INFO:root:Saving memory profile!
+INFO:root:Done!

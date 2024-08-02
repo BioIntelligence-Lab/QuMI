@@ -1,0 +1,3 @@
+conda-forge::pandas=2.2.2=py311h320fe9a_0
+conda-forge::pennylane-lightning-gpu=0.35.1=py311h71825b7_1
+pytorch::torchvision=0.17.2=py311_cu121

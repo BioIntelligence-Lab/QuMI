@@ -1,0 +1,23 @@
+	Command being timed: "python src/main.py train -c quantum -n 8 --experiment-dir experiments/ISVLSI -f 1 -g 2 --seed 5 --threads 4"
+	User time (seconds): 4803.54
+	System time (seconds): 618.77
+	Percent of CPU this job got: 167%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 54:05.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 8136468
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 661524
+	Minor (reclaiming a frame) page faults: 19697497
+	Voluntary context switches: 220193300
+	Involuntary context switches: 354018
+	Swaps: 0
+	File system inputs: 40972016
+	File system outputs: 5883568
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

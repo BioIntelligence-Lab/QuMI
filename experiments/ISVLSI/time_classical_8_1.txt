@@ -1,0 +1,23 @@
+	Command being timed: "python src/main.py train -c classical -n 8 --experiment-dir experiments/ISVLSI -f 1 -g 0 --seed 1 --threads 4"
+	User time (seconds): 7023.62
+	System time (seconds): 910.25
+	Percent of CPU this job got: 168%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:18:21
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 7720712
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 979799
+	Minor (reclaiming a frame) page faults: 33616389
+	Voluntary context switches: 307477181
+	Involuntary context switches: 402100
+	Swaps: 0
+	File system inputs: 60255752
+	File system outputs: 7138304
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
